@@ -12,6 +12,7 @@ fn main() {
 // Let's sample uniformly random field elements:
 let a = F::rand(&mut rng);
 let b = F::rand(&mut rng);
+//gph test
 
 // We can add...
 let c = a + b;
